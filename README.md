@@ -38,4 +38,4 @@ Option B: Command-Line Chat
 chat_with_agent()
 ```
 
-The warnings are avoidable. Gradio Interface, works once deployed in your system
+The warnings are avoidable. Gradio Interface, works once deployed in your system on a seperate tab (That's not an error)
